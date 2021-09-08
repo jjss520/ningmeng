@@ -3,7 +3,7 @@
     "name": "DD订阅",
     "description": "TG",
     "task": [{
-            "config": "*/10 * * * * https:\/\/cdn.jsdelivr.net\/gh\/ziye888\/JavaScript@main\/Task\/qczjspeed.js, tag=爷爷的小农院, enabled=false",
+            "config": "*/10 * * * * https://raw.githubusercontent.com/jjss520/ningmeng/main/yydxny.js, tag=爷爷的小农院, enabled=false",
         }
 		
 		
